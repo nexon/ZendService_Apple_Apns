@@ -1,6 +1,6 @@
 {
-    "name": "zendframework/zendservice-apple-apns",
-    "description": "OOP Zend Framework 2 wrapper for Apple Push Notification Service",
+    "name": "nexon/zendservice-apple-apns",
+    "description": "OOP Zend Framework 2 wrapper for Apple Push Notification Service - fixed for accent",
     "type": "library",
     "keywords": [
         "zf2",
